@@ -21,6 +21,7 @@
 
 body{
     background-color: var(--cor-de-fundo);
+    box-sizing: border-box;
     font-family: var(--fonte-principal);
     font-size: 16px;
 }
